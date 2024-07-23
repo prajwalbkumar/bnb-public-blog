@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Bugs and Binary | The AEC Tech+ Tribe Hub
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+The Epicentre of AEC Tech Excellence: Spaces for Grasshopper, Dynamo, AEC Coding and more.

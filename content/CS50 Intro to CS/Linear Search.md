@@ -1,0 +1,1 @@
+Go search one by one, string compare, using For Loop

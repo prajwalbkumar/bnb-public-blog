@@ -1,0 +1,1 @@
+The ability for a Deep Learning Model to fail again and again at a task only to randomly stike the correct one.

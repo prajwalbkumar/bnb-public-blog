@@ -1,0 +1,1 @@
+Recursion let's you run an algorithm faster
