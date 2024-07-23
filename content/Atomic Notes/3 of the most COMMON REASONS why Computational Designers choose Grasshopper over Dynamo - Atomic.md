@@ -33,15 +33,3 @@ Grasshopper's compatibility with macOS attracts a broader user base, contributin
 While Grasshopper has its advantages, Dynamo is still worth exploring, especially if you work within a Building Information Modelling (BIM) environment and prefer to stay within the Autodesk ecosystem. Dynamo integrates seamlessly with Revit, making it a powerful tool for automating and optimizing workflows within BIM projects. Its ability to handle tasks like data management, documentation, and model coordination can significantly enhance productivity for those working in construction and architectural engineering.  
 
 Whether you choose the flexibility of Rhino and Grasshopper or the BIM integration of Revit and Dynamo, the choice between Grasshopper and Dynamo depends on your specific project requirements, the software ecosystem you prefer, and the type of design work you are engaged in.
-
-
----
-
-## ⚓ Final Image
-
-![[Essay 002.png]]
-
----
-## 🔗 Published Link
-
-https://www.linkedin.com/posts/prajwalbkumar_computationaldesign-dynamo-grasshopper-activity-7209057352346439681-U-X9?utm_source=share&utm_medium=member_desktop
