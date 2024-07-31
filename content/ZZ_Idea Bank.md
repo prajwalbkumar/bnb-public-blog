@@ -117,6 +117,7 @@ The final form of the idea should be structured in any one of the approaches to 
 - [[Debugging in Grasshopper 5 common mistakes Everyone makes that doesn't look like a mistake]]
 - [[It took me a day to clean up this mess. - 3 Golden Rules to Make sure your script legible and break proof]]
 - [[Having practice Projects to work on for coding - Case of your Domain]]
+- [[Talking to your code - Coding is all about speaking dialect]]
 ---
 [[Content Buckets#A Content Bucket for the Industry Audience]]
 

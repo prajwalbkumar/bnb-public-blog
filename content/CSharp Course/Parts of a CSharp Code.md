@@ -9,6 +9,8 @@ Default namespace is the name of the project.
 ## { curly braces }
 Defines [[Scope]]. 
 
+### static void Main()
+This is the first entry point into the Code.
 ## internal class
 A special [[Class]] that asks the compiler to start the compilation of the code from that point. Usually the `internal class program` get executed first. Gives the first point of contact and usually goes into the `main` [[Method]]
 
@@ -20,10 +22,8 @@ Note: You name the folder based on the class that's in them. Ideally have one cl
 
 Whenever a Project is Built, 2 folders are created, bin and obj, that is basically the compiled code.
 
-We use `;` **Semmi-colon** to tell the code that the line has terminated at that point. Some places do not use semicolon. 
+We use `;` **Semi-colon** to tell the code that the line has terminated at that point. Some places do not use semicolon. 
 A common logic to that could be that whichever line of code has a curly bracket under it, will not need a semicolon. Since the termination of that line depends on the [[Scope]] which the {} Bounds.
-
-C# is case sensitive. WHYYYYYY!!!! Why do you have caps!
 
 \n is still used here. 
 To denote \ you will have to use \\ twice. 

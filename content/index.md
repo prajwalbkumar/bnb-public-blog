@@ -27,7 +27,7 @@ Given the dynamic nature of this blog, I continually update and tend to these no
 
 ---
 
-### Current Focus
+### Now ⌛
 
 If you don't know me, I'm an Architect by profession, looking to break into tech. I deeply care about creating fool-proof systems.
 
