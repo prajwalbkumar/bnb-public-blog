@@ -1,4 +1,4 @@
-## Using
+## using
 Start with a header file. 
 The header file is referenced in C#. Instead of copying the entire library to your code, it just uses (for eg: using System;) the available libraries into your code. 
 
@@ -12,7 +12,7 @@ Defines [[Scope]].
 ### static void Main()
 This is the first entry point into the Code.
 ## internal class
-A special [[Class]] that asks the compiler to start the compilation of the code from that point. Usually the `internal class program` get executed first. Gives the first point of contact and usually goes into the `main` [[Method]]
+A special [[Classes]] that asks the compiler to start the [[Compilation]] of the code from that point. The `internal class program` get executed first. Gives the first point of contact and goes into the `main` [[Method]]
 
 We need to have a method inside a class.
 
@@ -29,3 +29,6 @@ A common logic to that could be that whichever line of code has a curly bracket 
 To denote \ you will have to use \\ twice. 
 
 A [[Literal String]] String literal character. Using @
+
+
+Logic has a flow in a program.  - 

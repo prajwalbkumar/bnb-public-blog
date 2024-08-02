@@ -1,0 +1,1 @@
+Whether a GPT Generated or snippet from Stack Overflow, writing your own code, reinforces memory by allowing yourself to commit mistakes, troubleshoot and take away learnings wouldn't be possible otherwise

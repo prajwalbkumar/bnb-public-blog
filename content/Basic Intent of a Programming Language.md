@@ -1,0 +1,1 @@
+To express your thoughts to the computer in a way that mentions logics and instructions. The instructions that are written are called [[Source Code]]

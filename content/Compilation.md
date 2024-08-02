@@ -1,0 +1,1 @@
+A program that is just understood by the computer. A format of code converted from the [[Source Code]] that get executed at the computer's [[Central Processing Unit]]. Remember - However advanced a computer might be, the computer always runs in [[Zeros and Ones]].

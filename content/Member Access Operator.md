@@ -1,0 +1,1 @@
+A way for a program to start travelling or navigate from a class to it's methods or properties. 

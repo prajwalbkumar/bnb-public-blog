@@ -1,0 +1,4 @@
+- Entering lower case letters instead of capital letters. `console.writeline`
+- Putting a comma (,) instead of dot(.)
+- Using single quotes instead of double quotes
+- Forgetting the famous `;` semi-colon

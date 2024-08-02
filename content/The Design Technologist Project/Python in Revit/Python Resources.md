@@ -24,4 +24,4 @@ This would give 10 *
 
 [[Getting a Job using Python]]
 
-Learn about [[Class]]
+Learn about [[Classes]]

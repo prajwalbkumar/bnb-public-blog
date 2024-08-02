@@ -1,0 +1,3 @@
+This is what a developer would write. Set of instructions that makes sense to the human, and as a kind of a thought that goes before a sentence is ever spoken. These sentences are always meant to be spoken in certain structure or [[Syntax]]. These are not too complicated, yet are meant to provide rules and hierarchies to set logic. 
+
+Computers don't directly understand a source code. Now a source code go through [[Compilation]] - a process that let's computers understand the instructions.
