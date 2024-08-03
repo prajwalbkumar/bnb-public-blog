@@ -1,0 +1,3 @@
+If there is a need to display a Unicode character in a literal string using the `\u` [[Character Escape Sequence]], then a four-character code representing some character in Unicode (UTF-16).
+
+>There are several caveats here. First, some consoles like the Windows Command Prompt will not display all Unicode characters. It will replace those characters with question mark characters instead. Also, the examples used here are UTF-16. Some characters require UTF-32 and therefore require a different escape sequence.

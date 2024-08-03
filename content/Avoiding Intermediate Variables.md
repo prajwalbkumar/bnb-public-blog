@@ -1,0 +1,1 @@
+Unless absolutely needed, never ever use intermediate variables i.e. variables needed to do only a simple task such as printing a concatenated value. Instead use [[Literal String]] or  [[Reassigning a same Variable]] if possible. 

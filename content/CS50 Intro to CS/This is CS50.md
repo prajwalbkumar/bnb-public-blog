@@ -47,7 +47,7 @@ We are now using UNICODE instead of ASCII. It gives us the ability to showcase 4
 
 Some of the functions basic ones are already developed and stored in files that are called [[Libraries]] for example for standard input and output functions are included in the <stdio.h> library for C.
 
-[[Datatypes]]
+[[Data Type]]
 
 [[Conditionals]]
 
@@ -78,7 +78,7 @@ This is closely referenced from [[Binary Digits]]
 
 [[Type Casting]]
 
-[[Datatype]]
+[[Data Type]]
 
 [[Variable]]
 

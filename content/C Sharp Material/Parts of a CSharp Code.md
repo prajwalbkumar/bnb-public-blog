@@ -28,7 +28,7 @@ A common logic to that could be that whichever line of code has a curly bracket 
 \n is still used here. 
 To denote \ you will have to use \\ twice. 
 
-A [[Literal String]] String literal character. Using @
+A [[Verbatim Literal String]] String literal character. Using @
 
 
 Logic has a flow in a program.  - 
