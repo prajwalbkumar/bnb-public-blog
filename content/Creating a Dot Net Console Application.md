@@ -1,0 +1,1 @@
+Type `dotnet new console -o./FilePath` into the terminal.

@@ -118,6 +118,8 @@ The final form of the idea should be structured in any one of the approaches to 
 - [[It took me a day to clean up this mess. - 3 Golden Rules to Make sure your script legible and break proof]]
 - [[Having practice Projects to work on for coding - Case of your Domain]]
 - [[Talking to your code - Coding is all about speaking dialect]]
+- [[Beginning with Revit API - Confusion with how parenthesis works how dots work and how methods work!]]
+- [[Revit API works with C#. This how pyRevit managed to create a workaround with Python]]
 ---
 [[Content Buckets#A Content Bucket for the Industry Audience]]
 

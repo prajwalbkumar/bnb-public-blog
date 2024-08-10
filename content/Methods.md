@@ -1,0 +1,3 @@
+A method is a job, and it is capable of doing just one. All methods have got parenthesis `()` after being called in the end. The parentheses here are know as [[Method Invocation Operator]]
+
+Methods have more to it than just doing something. To do something, the method might need [[Parameters and Arguments]] and would [[Return a Value]]. Alternatively an [[Overloaded Method]] version can also be chosen instead.

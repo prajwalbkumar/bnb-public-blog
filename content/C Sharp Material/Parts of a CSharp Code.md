@@ -12,7 +12,7 @@ Defines [[Scope]].
 ### static void Main()
 This is the first entry point into the Code.
 ## internal class
-A special [[Classes]] that asks the compiler to start the [[Compilation]] of the code from that point. The `internal class program` get executed first. Gives the first point of contact and goes into the `main` [[Method]]
+A special [[Classes]] that asks the compiler to start the [[Compilation]] of the code from that point. The `internal class program` get executed first. Gives the first point of contact and goes into the `main` [[Methods]]
 
 We need to have a method inside a class.
 

@@ -1,1 +1,0 @@
-A method is a job, and it is capable of doing just one. All methods have got parenthesis `()` after being called in the end. The parentheses here are know as [[Method Invocation Operator]]

@@ -1,0 +1,1 @@
+A Method Signature is used to define the contents i.e. the name, arguments and the datatype of the arguments of the [[Method]]
