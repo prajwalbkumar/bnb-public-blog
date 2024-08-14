@@ -1,0 +1,1 @@
+Arrays allow you to store group of similar data values that share a common purpose or characteristics under a single variable name.

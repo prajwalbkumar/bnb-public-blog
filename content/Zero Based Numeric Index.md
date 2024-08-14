@@ -1,0 +1,1 @@
+In [[Computer Science]] items in a list or [[Arrays]], are indexed or counted by starting the count from Zero (0).
