@@ -1,0 +1,1 @@
+Each Family Instance is created in it's own environment - with their own coordinate system. A revit document also has it's coordinate system - [[Internal Origin]]. An instance placed in this document goes through a transformation to be placed at a specific location in the document - away from the origin.
