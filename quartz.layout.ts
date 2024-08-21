@@ -27,7 +27,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.RecentNotes({ title: "🌿 Latest Branches" })),
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "🌿 Latest Branches",
