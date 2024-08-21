@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      LinkedIn: "https://linkedin.com/in/prajwalbkumar",
+      "GitHub": "https://github.com/prajwalbkumar",
     },
   }),
 }
@@ -27,7 +27,17 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.RecentNotes({ title: "🌿 Latest Branches" })),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        title: "🌿 Latest Branches",
+        limit: 3,
+        filter: (f) =>
+          f.slug!.startsWith("Essays/") && f.slug! !== "Essays/index" && !f.frontmatter?.noindex,
+        linkToMore: "Essays/" as SimpleSlug,
+      }),
+    ),
+    // Component.DesktopOnly(Component.Explorer({ title: "🐾 Trails", folderDefaultState: "collapsed", })),
   ],
   right: [
     Component.Graph(),
