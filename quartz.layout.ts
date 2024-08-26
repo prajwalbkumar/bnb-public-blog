@@ -27,16 +27,9 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(
-      Component.RecentNotes({
-        title: "🌿 Latest Branches",
-        limit: 3,
-        filter: (f) =>
-          f.slug!.startsWith("Essays/") && f.slug! !== "Essays/index" && !f.frontmatter?.noindex,
-        linkToMore: "Essays/" as SimpleSlug,
-      }),
-    ),
-    // Component.DesktopOnly(Component.Explorer({ title: "🐾 Trails", folderDefaultState: "collapsed", })),
+    Component.DesktopOnly(Component.Explorer({ title: "🐾 Trails", folderDefaultState: "collapsed", })),
+    Component.DesktopOnly(Component.RecentNotes({title: "🌿 Latest Branches", showTags: false , limit: 3})),
+
   ],
   right: [
     Component.Graph(),

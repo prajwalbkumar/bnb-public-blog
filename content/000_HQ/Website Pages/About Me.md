@@ -1,9 +1,14 @@
 ---
-title: About
-draft: false
+title: About Me
+description: Hi, I’m Prajwal – an architect driven by my passion for coding and computational design in the AEC industry. I specialize in creating innovative, tech-driven solutions that enhance design workflows and optimize project outcomes.
+aliases: 
 tags:
-  - Pages
+  - Budding🌿
+draft: "false"
+date: 2024-08-22
 ---
+
+
 # Hi👋 I'm Prajwal...
 
 ### — A Hardcore **Computational Designer** — Elevating AEC with Seamless Coding.
