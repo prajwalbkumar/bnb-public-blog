@@ -1,16 +1,8 @@
 ---
-title: The 3 Archetypes of Computational Designers - Finding your WAY OF CODE
+title: Finding Your Way of Code
 tags:
-  - Anthropological
-  - ComputationalDesign
-  - Expert
-created: 2024-07-01 22:15
-modified: 2024-07-01 22:22
-scheduled: 2024-07-02
-platforms:
-  - LinkedIn
-published: true
-repurpose:
+  - Evergreen🌳
+date: "2024-07-02"
 ---
 Over the years, I have had the opportunity and privilege to learn from some of the best computational designers. Each approached problems in their unique way, but all their ways worked out in the end. This got me thinking: can one identify their "way of code" based on their problem-solving approach? Here's my take. Whether you are a seasoned professional or a newbie, you might find yourself fitting into one of these three categories.
 

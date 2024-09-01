@@ -28,12 +28,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({ title: "🐾 Trails", folderDefaultState: "collapsed", })),
-    Component.DesktopOnly(Component.RecentNotes({title: "🌿 Latest Branches", showTags: false , limit: 3})),
-
+    Component.DesktopOnly(Component.TableOfContents()),
   ],
   right: [
     Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
+    Component.DesktopOnly(Component.RecentNotes({title: "🌳Thoughts",limit: 5, showTags: false, filter: (f) => f.slug!.startsWith("003_Essays/")})),
     Component.Backlinks(),
   ],
 }

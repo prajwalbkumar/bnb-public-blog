@@ -1,16 +1,8 @@
 ---
-title: 3 of the most COMMON REASONS why Computational Designers choose Grasshopper over Dynamo
+title: Grasshopper vs Dynamo
 tags:
-  - Analytical
-  - Curated
-  - Beginner
-created: 2024-06-18 21:20
-modified: 2024-06-18 21:28
-scheduled: 2024-06-19
-platforms:
-  - LinkedIn
-published: true
-repurpose:
+  - Evergreen🌳
+date: "2024-06-19"
 ---
 Grasshopper vs Dynamo is a frequent comparison for beginners in computational design. Despite their similarities as node-based plugins, they differ primarily in their underlying engines. Here are three reasons why Grasshopper might be better suited for your needs.
 

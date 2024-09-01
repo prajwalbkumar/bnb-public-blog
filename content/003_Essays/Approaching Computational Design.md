@@ -1,16 +1,8 @@
 ---
-title: Struggling with Computational Design - Fix Your Approach with these FIVE Steps
+title: Approaching Computational Design
 tags:
-  - Actionable
-  - ComputationalDesign
-  - Beginner
-created: 2024-06-02 17:13
-modified: 2024-06-17 14:51
-scheduled: 2024-06-18
-platforms:
-  - LinkedIn
-published: true
-repurpose:
+  - Evergreen🌳
+date: 2024-06-18
 ---
 As a computational designer for over seven years, I've learned one thing for sure: mastering these tools isn't a cakewalk. Despite facing setbacks, I've always bounced back, ready to restart my journey. Here are three (+2) practical tips I wish I had to avoid quitting computational design multiple times:
 

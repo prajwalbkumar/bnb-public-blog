@@ -1,16 +1,8 @@
 ---
-title: 6 Reasons Why Visual Programming Is - In Most Cases - The Best Way to Break Into Tech in the Aec Industry
+title: Best Way to Break into AEC Tech
 tags:
-  - Analytical
-  - Industry
-  - ComputationalDesign
-created: 2024-06-30 22:09
-modified: 2024-06-30 22:16
-scheduled: 2024-07-01
-platforms:
-  - LinkedIn
-published: true
-repurpose:
+  - Evergreen🌳
+date: "2024-06-30"
 ---
 The AEC industry has seen significant advancements in recent years, from innovative construction methods to new building materials. One major area of growth is in automation and digital delivery, which improves efficiency and drives innovation. For tech-inclined professionals this opens up new avenues and opportunities to build innovative solutions and workflows. 
 

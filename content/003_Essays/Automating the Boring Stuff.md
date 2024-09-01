@@ -1,12 +1,8 @@
 ---
-title: 4 Steps to identify and automate the boring stuffs at work using - the DRY method
-tags: 
-created: 2024-07-02 22:58
-modified: 2024-07-02 23:18
-scheduled: 2024-07-03
-platforms: 
-published: 
-repurpose:
+title: Automating the Boring Stuff
+tags:
+  - Evergreen🌳
+date: "2024-07-02"
 ---
 Throughout history, humans have relied on repetitive actions and tasks to fulfill daily duties. This isn't just a modern phenomenon; our ancestors used rituals—repeated actions—to get the job done. While these rituals provide reliability and comfort, they aren't great for companies focused on efficiency. Businesses thrive on creativity and problem-solving, not monotonous tasks. Here are four actionable steps to help you automate the boring stuff at work using the DRY (Don't Repeat Yourself) framework, freeing your mind for more meaningful work.
 
