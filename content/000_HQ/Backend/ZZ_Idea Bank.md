@@ -127,5 +127,5 @@ The final form of the idea should be structured in any one of the approaches to 
 * [[The reason why AEC Tech progress is so slow as compared to other IT Sectors]] #Anthropological #Stats #Curated
 * [[Why do Developers hate spaces while naming their Files: A lovestory of different casings: Hint! You may love Pascal Casing!]]
 * [[Testing the Edges - Making sure your code works in every scenario]]
-* [[Programming gives you Options]]
+* [[Programming Gives You Options]]
 ---

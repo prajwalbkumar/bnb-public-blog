@@ -21,7 +21,7 @@ All works and practices that were conducted with [[ThinkParametric Courses]] alo
 > Try to Exaggerate the Applications of these projects. Exaggerate their affect on the Team, etc. 
 
 ### The "Code" in Design Technology 
-[[Programming gives you Options]], show these options out loud. Give away the [[PyRevit]] scripts for free. Show them the repo! Show them what they get out of you. 
+[[Programming Gives You Options]], show these options out loud. Give away the [[PyRevit]] scripts for free. Show them the repo! Show them what they get out of you. 
 
 All Codes and Snippets sent out to them. For Free. They might probably be created in house in DAR, but it doesn't make it theirs. 
 
@@ -30,6 +30,6 @@ If I can create it once, I can have it replicated again and again! Any day!
 
 ### The Extra - The Selling Point
 
-An image of the [[BIM TaskForce OS]] dashboards as a way to tease for something revolutionary! 
+An image of the [[BIM OS]] dashboards as a way to tease for something revolutionary! 
 
 Create a One Page Site, make it interactive and a way for people to see the end product. 

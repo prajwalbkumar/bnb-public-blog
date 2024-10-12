@@ -37,7 +37,7 @@ I believe in [[Building in Public]], and here are my current projects:
 - [ ] Deploying tools built with the [[Revit API]]
 - [ ] This blog 🙋‍♂️
 - [ ] Exploring ideas in [[Idea for Software]], including:
-    - [ ] Developing a [[BIM TaskForce OS]], a project management tool tailored for BIM Projects in the AEC industry.
+    - [ ] Developing a [[BIM OS]], a project management tool tailored for BIM Projects in the AEC industry.
 
 I live in India ❤️ and hail from the beautiful [Andaman and Nicobar Islands](https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands). Planning a trip? I'd be happy to help you with a perfect travel itinerary!
 

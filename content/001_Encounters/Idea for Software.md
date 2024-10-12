@@ -19,7 +19,7 @@ A template of Grasshopper Scripts for that contains few Python Scripts that subs
 
 [[Linking Topologicpy to Ladybug, Honeybee, etc]] with a great Revit Integration for Larger Organizations.
 
-[[BIM TaskForce OS]]
+[[BIM OS]]
 
 [[Model Health Checker Correction Manager]] - [[Revit Model Cleanup]]
 

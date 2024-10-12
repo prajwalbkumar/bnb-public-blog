@@ -10,6 +10,9 @@ Almost all of the software today is Web Based or Phone Based. [[Architecture Sof
 
 It's not where you end up relative to your peers, but where you end up relative to when you started this course.
 
+---
+### Week 1 - C
+
 [[Computational Thinking]] clean up your thought processes not just in CS but in every aspect of your life. Because the Secret sauce is the same.
 
 31 is the highest you can count in a Unary System. It is just how you can represent up to the number 31. Also called Base 1
@@ -83,6 +86,7 @@ This is closely referenced from [[Binary Digits]]
 [[Variable]]
 
 ---
+### Week 2 - Arrays
 
 [[Command Line Argument]]
 
@@ -107,6 +111,8 @@ A `string` IS a Array of `char`
 
 ---
 
+### Week 3 - Algorithms
+
 [[Algorithmic Thinking]]
 
 [[Linear Search]]
@@ -127,3 +133,63 @@ A `string` IS a Array of `char`
 Also Read - Google prints did you mean recursion again and again and again!! Lol
 
 [[Creating Custom Datastructure]]
+
+
+### Week 4 - Memory
+
+Evey image and videos are stored as 0 and 1 in the memory.
+RGB - Some amount of red, green and blue. 
+
+Notation for Colours - HEX Codes is the HASH RRGGBB
+
+RED = FF0000
+GREEN = 00FF00
+BLUE = 0000FF
+
+For colours, we use Hexadecimal. (Base 16)
+0123456789ABCDEF
+
+Computers use Hexadecimal to denote the address in the memory.
+0x Prefix is used to denote hexadecimal.
+
+[[Pointers]]
+ 
+Pointees
+Dereferencing 
+
+\*p means go to the address. 
+
+Arrays have contiguous addresses in the memory. 
+
+A string is an array of chars. 
+A string variable is technically a pointer that refers to the location of the characters stored  contiguously in memory.  
+
+HISTORY - WHY DID COMPUTERS EARLIER HAVE ONLY 2GB OG MEMORY. The case of pointer. 32bit vs 64bit
+
+`string s = "HI!`
+`char *s = "HI!`
+
+They both are the same thing. 
+
+[[Pointer Arithmetric]]
+
+malloc is a function that allocates a memory address of a certain length for you. 
+But once this is allocated, you must also dispose or free the resources of the memory once done. 
+
+Memory Leak
+Garbage Value
+
+Passing by Value
+Passing by Reference
+
+### Week 5 - Data Structures
+
+[[Data Structures]]
+
+[[Queue]]
+[[FIFO - First in First Out]]
+
+[[Stacks]]
+[[LIFO - Last in First Out]]
+
+[[Linked Lists]]

@@ -16,4 +16,4 @@ Consider it as an alternative to a MCQs. They just give you a set options for a 
 
 Not as powerful as a typical IF and ELSE [[Conditionals]] might be a better option. 
 
-[[Programming gives you Options]]
+[[Programming Gives You Options]]
