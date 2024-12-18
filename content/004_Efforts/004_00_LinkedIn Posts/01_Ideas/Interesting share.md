@@ -1,0 +1,1 @@
+[The struggle for open data in the construction industry. The history of AUTOLISP, intelliCAD, openDWG, ODA and openCASCADE | by artem boiko | Medium](https://boikoartem.medium.com/the-struggle-for-open-data-in-the-construction-industry-2b97200e6393)

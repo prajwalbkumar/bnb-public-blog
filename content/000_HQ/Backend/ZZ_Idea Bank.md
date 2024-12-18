@@ -20,7 +20,7 @@ Take an idea and write it for targeted users.. Write the same topic for differen
 4. The person I was in the last 2 years
 
 ### So that:
-It is the benefit. Change the outcome of the essay for any on of the audience
+It is the benefit. Change the outcome of the essay for any of the audience
 
 ## The Endless Idea Generator
 

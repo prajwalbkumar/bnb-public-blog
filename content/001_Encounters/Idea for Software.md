@@ -30,3 +30,11 @@ A template of Grasshopper Scripts for that contains few Python Scripts that subs
 [[An Open Source  Tool Like pyRevit that let's you run Artificial Intelligence Model inside Revit]]
 
 [[A Powerful Assembly Code - UNICLASS - Basic Estimation and Takeoff - TOOL]
+
+[[Door Hardware Web UI Addin]]
+
+[[Urban Design Best Fit Tool]] Can be a free Grasshopper Script!
+
+[[Notion based Architecture Business Pack App]]
+
+[[AEC Convention Board]]

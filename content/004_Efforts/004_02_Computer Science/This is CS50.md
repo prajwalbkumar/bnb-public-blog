@@ -174,6 +174,7 @@ They both are the same thing.
 [[Pointer Arithmetric]]
 
 malloc is a function that allocates a memory address of a certain length for you. 
+Malloc always returns an address. Hence a pointer is required to accept the value.2
 But once this is allocated, you must also dispose or free the resources of the memory once done. 
 
 Memory Leak
@@ -193,3 +194,40 @@ Passing by Reference
 [[LIFO - Last in First Out]]
 
 [[Linked Lists]]
+
+When using malloc, you can treat them as arrays.
+Malloc should always be freed
+
+Flat File Database - Text File consisting of data with a delimiters like CSV. 
+
+Relational Database - SQL
+
+CRUD Paradigm 
+Create, Insert
+Read
+Update
+Delete, Drop
+
+Race Conditions
+
+[[Transactions]]
+
+### Web Development
+
+ARPANet
+[[Packet]]
+[[Routers]]
+[[IP]]
+
+[[DNS]]
+[[Root Servers]]
+
+[[DHCP]]
+
+[[HTTP]] vs [[HTTPS]]
+
+[[GET and POST]]
+
+[[HTML]]
+
+[[REGEX]]

@@ -1,0 +1,1 @@
+You would sit and play against a CPU a player versus CPU
