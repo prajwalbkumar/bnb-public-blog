@@ -1,2 +1,7 @@
 - Get a PT
 - Get a second monitor
+- Get out of a catch 22 scenario soon
+- Make time for things that are important to you
+- Make sure your food is colourful
+- Now, Not How!
+- Swear Consistency
